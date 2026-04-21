@@ -1,0 +1,14 @@
+{
+  "name": "eventra",
+  "version": "1.0.0",
+  "description": "EVENTRA – Full-stack event booking platform (monorepo)",
+  "private": true,
+  "scripts": {
+    "install": "cd backend && npm install",
+    "start": "cd backend && node app.js",
+    "dev": "cd backend && npm run dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

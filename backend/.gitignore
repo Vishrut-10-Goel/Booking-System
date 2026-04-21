@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+
+# Ignore scratch directory
+scratch/
+../scratch/
